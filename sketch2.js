@@ -19,7 +19,7 @@ ellipse(50,50,30,30);
 tv.set1(450,150,0);
 duoPoly(tv,multvec[0],multvec[1],multvec[2],multvec[3],multvec[4]);
 text("1stlength "+multvec[0],30,400);
-text("2c length "+multvec[2],30,420);
+text("2cdlength "+multvec[2],30,420);
 text("1st angle "+multvec[1],30,440);
 text("2cd angle "+multvec[3],30,460);
 movA.move();movA.chbdd();movA.show();
