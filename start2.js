@@ -16,7 +16,7 @@ picmovStA=createVector(150,50,);
 picmovVelA=createVector(-3,4);
 picmovSt=createVector(50,50,);
 picmovVel=createVector(3,4);
-picmov=select('#movingpic');
+picmov=select('#pic1');
 movA=new move(picmovStA,picmovVelA);	
 mov2=new move(picmovSt,picmovVel);	
 
