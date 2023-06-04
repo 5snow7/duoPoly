@@ -1,4 +1,4 @@
-let can;let tv;let tChoice;
+let can; let tv; let tChoice;
 
 function setup(){
 can=createCanvas(700,500);can.position(30,25);
@@ -6,7 +6,7 @@ can.class('bdd');
 start2();
 tv=new logo(200,200,0);
 tChoice=new logo(200,200,0);
-textSize(15);
+textSize(25);
 }
 
 function draw(){
